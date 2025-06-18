@@ -1,2 +1,5 @@
+2025-06-19
+The full version of 0.21.0 is now fully released. We hope you enjoy it as much as we did working on it!
+
 2025-05-19
 The first release candidate for the new version is out. Send us your feedback on the Slack!
