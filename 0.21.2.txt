@@ -1,1 +1,2 @@
-
+2025-12-01
+We released the newest version 0.21.3 that we would recommend for every user to upgrade to.
