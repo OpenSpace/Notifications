@@ -1,1 +1,2 @@
-
+2026-04-28
+We released the newest version 0.21.4 that fixes known issues with downloading satellite trials and that is recommended for every user.
