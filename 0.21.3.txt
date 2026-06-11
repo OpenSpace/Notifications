@@ -1,2 +1,5 @@
+2026-06-11
+The second OpenSpace User Meeting will be hosted in Norrköping, Sweden and take place 26th-28th of August. Find more information on the homepage: https://www.openspaceproject.com/2026-user-meeting-location
+
 2026-04-28
 We released the newest version 0.21.4 that fixes known issues with downloading satellite trials and that is recommended for every user.
